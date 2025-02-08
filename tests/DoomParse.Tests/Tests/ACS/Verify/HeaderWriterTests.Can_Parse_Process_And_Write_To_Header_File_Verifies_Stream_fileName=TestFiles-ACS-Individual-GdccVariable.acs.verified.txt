@@ -1,0 +1,19 @@
+﻿// ----------------------------------------
+// THIS FILE IS AUTO-GENERATED.
+// Any modifications may be overwritten.
+// ----------------------------------------
+
+// This file has been automatically generated to maintain data/code consistency.
+// Manual changes could be lost during the next regeneration. It is advised not to modify this file directly.
+
+// Purpose:
+// This file serves as an ACS header file for the library as specified in the file, exposing all public features that you are allowed to use.
+// This file is generated automatically to ensure accuracy and avoid mistakes with missing/unimplemented features.
+
+// Usage Guidelines:
+// - DO NOT manually edit this file unless you fully understand its purpose and structure.
+// - If changes are necessary, request modification of the source code and regenerate the file.
+// - Reach out to the developer for assistance with any concerns.
+
+int fooStructVar;
+int barStructVar[4];

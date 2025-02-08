@@ -1,0 +1,22 @@
+﻿[
+  {
+    ReturnType: void,
+    Name: Foo,
+    Parameters: [
+      {
+        Type: int,
+        Name: arg1
+      },
+      {
+        Type: str,
+        Name: arg2
+      }
+    ],
+    IsPrivate: false
+  },
+  {
+    ReturnType: int,
+    Name: Bar,
+    IsPrivate: false
+  }
+]

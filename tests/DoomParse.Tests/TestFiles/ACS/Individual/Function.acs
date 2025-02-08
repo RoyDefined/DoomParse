@@ -1,0 +1,7 @@
+function void Foo(int arg1, str arg2)
+{
+}
+
+function int Bar(void)
+{
+}

@@ -1,0 +1,18 @@
+﻿[
+  {
+    Name: FooT,
+    Type: void
+  },
+  {
+    Name: BarT,
+    Type: str,
+    Parameters: [
+      {
+        Type: IntT
+      },
+      {
+        Type: IntT
+      }
+    ]
+  }
+]

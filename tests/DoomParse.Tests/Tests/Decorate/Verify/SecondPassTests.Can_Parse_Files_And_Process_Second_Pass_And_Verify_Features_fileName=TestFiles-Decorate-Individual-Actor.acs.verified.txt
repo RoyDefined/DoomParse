@@ -1,0 +1,22 @@
+﻿[
+  {
+    Name: Foo,
+    Body:
+
+  },
+  {
+    Name: Bar,
+    Inherits: Baz,
+    Body:
+	+Foo
+
+  },
+  {
+    Name: Qux,
+    Inherits: Baz,
+    DoomedNum: 1234,
+    Body:
+	+Foo
+
+  }
+]

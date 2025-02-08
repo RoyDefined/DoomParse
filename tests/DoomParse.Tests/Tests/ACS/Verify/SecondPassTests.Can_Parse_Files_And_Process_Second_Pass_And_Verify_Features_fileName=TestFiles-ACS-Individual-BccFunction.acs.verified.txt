@@ -1,0 +1,24 @@
+﻿[
+  {
+    ReturnType: void,
+    Name: Foo,
+    IsPrivate: false
+  },
+  {
+    ReturnType: str,
+    Name: Bar,
+    Parameters: [
+      {
+        Type: fixed,
+        Name: arg1,
+        DefaultValue: 1.0
+      }
+    ],
+    IsPrivate: false
+  },
+  {
+    ReturnType: fixed,
+    Name: Baz,
+    IsPrivate: false
+  }
+]

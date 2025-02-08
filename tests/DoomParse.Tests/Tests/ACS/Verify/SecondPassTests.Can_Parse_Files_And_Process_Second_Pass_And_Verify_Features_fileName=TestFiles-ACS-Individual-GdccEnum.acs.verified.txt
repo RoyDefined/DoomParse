@@ -1,0 +1,34 @@
+﻿[
+  {
+    Values: [
+      {
+        Key: APPLE
+      },
+      {
+        Key: ORANGE
+      },
+      {
+        Key: MELON,
+        Value: [
+          {
+            Token: TNUMBER,
+            Symbol: 4
+          }
+        ]
+      },
+      {
+        Key: STRAWBERRY
+      },
+      {
+        Key: PINEAPPLE
+      }
+    ]
+  },
+  {
+    Values: [
+      {
+        Key: BANANA
+      }
+    ]
+  }
+]

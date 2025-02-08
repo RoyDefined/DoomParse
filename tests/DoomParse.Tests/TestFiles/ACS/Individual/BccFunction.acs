@@ -1,0 +1,11 @@
+void Foo()
+{
+}
+
+str Bar(fixed arg1 = 1.0)
+{
+}
+
+fixed Baz(void)
+{
+}

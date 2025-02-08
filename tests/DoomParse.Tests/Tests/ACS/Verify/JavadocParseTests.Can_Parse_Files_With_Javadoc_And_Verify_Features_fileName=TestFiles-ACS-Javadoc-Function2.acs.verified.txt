@@ -1,0 +1,82 @@
+﻿{
+  Features: [
+    {
+      ReturnType: void,
+      Name: Foo,
+      IsPrivate: false,
+      Comment: {
+        Summary: A test function that represents the documentation.,
+        Returns: A boolean that represents basically nothing.,
+        Hidden: false,
+        Parameters: [
+          {
+            Name: arg1,
+            Description: The first param as an integer.
+          },
+          {
+            Name: arg2,
+            Description: The second param as a boolean.
+          },
+          {
+            Name: arg3
+          }
+        ]
+      }
+    },
+    {
+      ReturnType: void,
+      Name: Foo,
+      IsPrivate: false,
+      Comment: {
+        Summary: A test function that represents the documentation.,
+        Returns: A boolean that represents basically nothing.,
+        Hidden: false,
+        Parameters: [
+          {
+            Name: arg1,
+            Description: The first param as an integer.
+          },
+          {
+            Name: arg2,
+            Description: The second param as a boolean.
+          },
+          {
+            Name: arg3
+          }
+        ]
+      }
+    },
+    {
+      ReturnType: void,
+      Name: Foo,
+      IsPrivate: false,
+      Comment: {
+        Summary: A test function that represents the documentation.,
+        Returns: A boolean that represents basically nothing.,
+        Hidden: false,
+        Parameters: [
+          {
+            Name: arg3
+          },
+          {
+            Name: arg2,
+            Description: The second param as a boolean.
+          },
+          {
+            Name: arg1,
+            Description: The first param as an integer.
+          }
+        ]
+      }
+    },
+    {
+      ReturnType: void,
+      Name: Foo,
+      IsPrivate: false,
+      Comment: {
+        Summary: A test function that represents the documentation.,
+        Hidden: false
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+function int foo(void)
+{
+	// TODO: Implement!
+	//@todo: Implement!
+	//!todo! Implement!
+	//hack Implement!
+	//hack! Implement!
+}

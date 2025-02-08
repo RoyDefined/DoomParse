@@ -1,0 +1,11 @@
+﻿[
+  {
+    Type: int,
+    Items: [
+      {
+        Name: fooThisCouldBeAnything
+      }
+    ],
+    IsPrivate: false
+  }
+]

@@ -1,0 +1,49 @@
+﻿{
+  Features: [
+    {
+      ReturnType: int,
+      Name: foo,
+      IsPrivate: false,
+      Comment: {
+        Summary: Foo,
+        Hidden: false
+      }
+    },
+    {
+      ReturnType: int,
+      Name: foo,
+      IsPrivate: false,
+      Comment: {
+        Summary: Foo,
+        Hidden: false
+      }
+    },
+    {
+      ReturnType: int,
+      Name: foo,
+      IsPrivate: false,
+      Comment: {
+        Summary: Foo,
+        Hidden: false
+      }
+    },
+    {
+      ReturnType: int,
+      Name: foo,
+      IsPrivate: false,
+      Comment: {
+        Summary: Foo,
+        Hidden: false
+      }
+    },
+    {
+      ReturnType: int,
+      Name: foo,
+      IsPrivate: false,
+      Comment: {
+        Summary: Foo,
+        Hidden: false
+      }
+    }
+  ]
+}

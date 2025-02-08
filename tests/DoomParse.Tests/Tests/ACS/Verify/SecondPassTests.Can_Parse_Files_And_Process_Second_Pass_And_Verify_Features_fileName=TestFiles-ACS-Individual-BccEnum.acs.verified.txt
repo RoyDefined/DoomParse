@@ -1,0 +1,21 @@
+﻿[
+  {
+    Values: [
+      {
+        Key: FOO
+      },
+      {
+        Key: BAR,
+        Value: [
+          {
+            Token: TNUMBER,
+            Symbol: 5
+          }
+        ]
+      },
+      {
+        Key: BAZ
+      }
+    ]
+  }
+]

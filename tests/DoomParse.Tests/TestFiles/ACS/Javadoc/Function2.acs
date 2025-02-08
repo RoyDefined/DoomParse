@@ -1,0 +1,36 @@
+/**
+ * A test function that represents the documentation.
+ * @param arg1 The first param as an integer.
+ * @param arg2 The second param as a boolean.
+ * @param arg3
+ * @returns A boolean that represents basically nothing.
+ */
+function void Foo()
+{
+}
+
+/** A test function that represents the documentation.
+*@param arg1 The first param as an integer.
+@param arg2 The second param as a boolean.
+ *@param arg3
+*                                              @returns A boolean that represents basically nothing.
+ */
+function void Foo()
+{
+}
+
+/**@returns A boolean that represents basically nothing.
+ * @summary A test function that represents the documentation.
+ * @param arg3
+ * @param arg2 The second param as a boolean.
+ * @param arg1 The first param as an integer.
+ * 
+ */
+function void Foo()
+{
+}
+
+/** @description A test function that represents the documentation. */
+function void Foo()
+{
+}

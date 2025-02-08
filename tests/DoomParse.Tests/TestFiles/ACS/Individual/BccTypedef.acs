@@ -1,0 +1,2 @@
+typedef int FooT;
+typedef str BarT[10];

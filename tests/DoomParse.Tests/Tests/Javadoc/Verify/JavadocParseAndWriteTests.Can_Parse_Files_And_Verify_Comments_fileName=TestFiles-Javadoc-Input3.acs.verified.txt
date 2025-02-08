@@ -1,0 +1,4 @@
+﻿{
+  Summary: FooBarBaz,
+  Hidden: false
+}

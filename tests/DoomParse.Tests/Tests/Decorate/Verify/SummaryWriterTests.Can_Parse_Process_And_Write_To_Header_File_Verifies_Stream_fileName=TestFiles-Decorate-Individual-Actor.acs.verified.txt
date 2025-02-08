@@ -1,0 +1,28 @@
+﻿// ----------------------------------------
+// THIS FILE IS AUTO-GENERATED.
+// Any modifications may be overwritten.
+// ----------------------------------------
+
+// This file has been automatically generated to maintain data/code consistency.
+// Manual changes could be lost during the next regeneration. It is advised not to modify this file directly.
+
+// Purpose:
+// This file serves as a summary file listing all decorate actors.
+// This file is generated automatically to ensure accuracy and avoid mistakes with missing/unimplemented features.
+// Additionally, this file serves as a summary to list all known doomed nums.
+
+// Usage Guidelines:
+// - DO NOT manually edit this file unless you fully understand its purpose and structure.
+// - If changes are necessary, request modification of the source code and regenerate the file.
+// - Reach out to the developer for assistance with any concerns.
+
+
+List of all known DoomedNums:
+	1234
+
+List of actors with a DoomedNum:
+- Q
+	Qux: 1234
+
+Other actors:
+	Bar, Foo

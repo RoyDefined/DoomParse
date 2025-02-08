@@ -1,0 +1,44 @@
+﻿[
+  {
+    Identifier: 1,
+    IdentifierQuotes: false,
+    Activator: open,
+    IsClientside: true
+  },
+  {
+    Identifier: Foo,
+    IdentifierQuotes: true,
+    IsClientside: true
+  },
+  {
+    Identifier: Bar,
+    IdentifierQuotes: true,
+    IsClientside: false,
+    Parameters: [
+      {
+        Type: int,
+        Name: arg1
+      },
+      {
+        Type: int,
+        Name: arg2
+      }
+    ]
+  },
+  {
+    Identifier: Baz,
+    IdentifierQuotes: true,
+    Activator: event,
+    IsClientside: true,
+    Parameters: [
+      {
+        Type: int,
+        Name: arg1
+      },
+      {
+        Type: int,
+        Name: arg2
+      }
+    ]
+  }
+]

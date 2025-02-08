@@ -1,0 +1,13 @@
+enum Fruits
+{
+    APPLE,
+    ORANGE,
+    MELON = 4,
+    STRAWBERRY,
+    PINEAPPLE,
+}
+
+enum
+{
+    BANANA
+}

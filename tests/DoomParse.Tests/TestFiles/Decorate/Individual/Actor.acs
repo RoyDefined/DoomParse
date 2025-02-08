@@ -1,0 +1,13 @@
+actor Foo
+{
+}
+
+actor Bar : Baz
+{
+	+Foo
+}
+
+actor Qux : Baz 1234
+{
+	+Foo
+}

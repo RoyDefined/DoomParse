@@ -1,0 +1,14 @@
+private struct Foo
+{
+	str foo,
+		bar,
+		baz;
+};
+
+struct Bar
+{
+	int foo;
+	str bar;
+	fixed baz;
+	raw qox;
+};

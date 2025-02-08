@@ -1,0 +1,15 @@
+﻿[
+  {
+    Names: [
+      foo,
+      bar
+    ],
+    Values: [
+      {
+        Type: int,
+        Name: foo
+      }
+    ],
+    IsPrivate: false
+  }
+]

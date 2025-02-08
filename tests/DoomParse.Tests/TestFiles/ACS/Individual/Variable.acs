@@ -1,0 +1,13 @@
+int fooInt = 5;
+int barInt, bazInt;
+int qoxInt = -1;
+
+str fooString;
+
+fixed fooFixed;
+fixed barFixed = -123.0,
+	qoxFixed = -200.0;
+
+int fooArray[5] = { 1, 2, 3, 4, 5 };
+
+int fooWithManyParenthesis = 3 + (1 + 2 + (4 + 5));

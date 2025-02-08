@@ -1,0 +1,2 @@
+typedef void FooT();
+typedef str BarT(IntT, IntT);

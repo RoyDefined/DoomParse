@@ -1,0 +1,28 @@
+/**
+ * Foo
+ */
+function int foo(void)
+{
+}
+
+/** Foo
+ */
+function int foo(void)
+{
+}
+
+/**
+ * Foo */
+function int foo(void)
+{
+}
+
+/** Foo */
+function int foo(void)
+{
+}
+
+/**Foo*/
+function int foo(void)
+{
+}

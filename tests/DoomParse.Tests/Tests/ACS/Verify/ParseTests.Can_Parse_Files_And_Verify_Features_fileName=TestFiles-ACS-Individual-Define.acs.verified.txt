@@ -1,0 +1,29 @@
+﻿[
+  {
+    Key: FOO,
+    Value: [
+      {
+        Token: TNUMBER,
+        Symbol: 10
+      }
+    ]
+  },
+  {
+    Key: FOO,
+    Value: [
+      {
+        Token: TSTRING,
+        Symbol: FOO
+      }
+    ]
+  },
+  {
+    Key: FOO,
+    Value: [
+      {
+        Token: TNUMBER,
+        Symbol: 10.123
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+// Single line comment
+
+/* Multi
+line
+comment
+*/
+
+function int foo(void)
+{
+	// Single line comment
+
+	/* Multi
+	line
+	comment
+	*/
+}
+
+function int foo(void)
+{
+	//          Single                   line               comment
+
+	/* Multi
+
+
+
+
+
+
+
+
+	line
+
+
+
+
+	comment                 */
+}

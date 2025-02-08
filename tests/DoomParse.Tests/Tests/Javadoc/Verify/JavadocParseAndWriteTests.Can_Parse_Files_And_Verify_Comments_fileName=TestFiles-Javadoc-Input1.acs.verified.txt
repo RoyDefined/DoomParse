@@ -1,0 +1,4 @@
+﻿{
+  Summary: Foo,
+  Hidden: false
+}

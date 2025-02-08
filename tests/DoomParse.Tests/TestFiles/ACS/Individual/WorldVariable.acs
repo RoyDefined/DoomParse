@@ -1,0 +1,3 @@
+world int 1:foo;
+world int 2:bar;
+world int 3:baz[];

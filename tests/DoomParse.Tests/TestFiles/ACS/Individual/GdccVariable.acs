@@ -1,0 +1,6 @@
+StructType fooStructVar;
+StructType barStructVar[4];
+
+SomeStruct
+	InitTest = { 5, "structs are nice", 1.0 },
+	InitTest2 = { 5, "structs are nice", 1.0 };

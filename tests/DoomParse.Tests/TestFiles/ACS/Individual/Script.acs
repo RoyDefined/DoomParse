@@ -1,0 +1,15 @@
+script 1 open clientside
+{
+}
+
+script "Foo" (void) clientside
+{
+}
+
+script "Bar" (int arg1, int arg2)
+{
+}
+
+script "Baz" (int arg1, int arg2) event clientside
+{
+}

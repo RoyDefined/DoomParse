@@ -1,0 +1,43 @@
+﻿[
+  {
+    Type: structtype,
+    Items: [
+      {
+        Name: fooStructVar
+      }
+    ],
+    IsPrivate: false
+  },
+  {
+    Type: structtype,
+    Items: [
+      {
+        ArraySize: 4,
+        Name: barStructVar
+      }
+    ],
+    IsPrivate: false
+  },
+  {
+    Type: somestruct,
+    Items: [
+      {
+        Values: [
+          5,
+          structs are nice,
+          1.0
+        ],
+        Name: InitTest
+      },
+      {
+        Values: [
+          5,
+          structs are nice,
+          1.0
+        ],
+        Name: InitTest2
+      }
+    ],
+    IsPrivate: false
+  }
+]

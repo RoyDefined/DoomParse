@@ -1,0 +1,5 @@
+﻿[
+  {
+    Path: TestFiles/Decorate/Individual/Empty.acs
+  }
+]

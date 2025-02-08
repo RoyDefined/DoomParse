@@ -1,0 +1,11 @@
+﻿[
+  {
+    Type: int,
+    Name: FooT
+  },
+  {
+    Type: str,
+    Name: BarT,
+    ArraySize: 10
+  }
+]

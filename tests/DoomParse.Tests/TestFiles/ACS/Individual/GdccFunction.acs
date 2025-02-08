@@ -1,0 +1,3 @@
+function SomeStruct StructFunc (SomeStruct st)
+{
+}

@@ -1,0 +1,5 @@
+﻿[
+  {
+    Path: somelibrary.acs
+  }
+]

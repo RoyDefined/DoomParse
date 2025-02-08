@@ -1,0 +1,21 @@
+﻿[
+  {
+    Type: int,
+    Items: [
+      {
+        Name: fooStructVar
+      }
+    ],
+    IsPrivate: false
+  },
+  {
+    Type: int,
+    Items: [
+      {
+        ArraySize: 4,
+        Name: barStructVar
+      }
+    ],
+    IsPrivate: false
+  }
+]

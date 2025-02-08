@@ -1,0 +1,32 @@
+namespace
+{
+}
+
+namespace Foo
+{
+}
+
+strict namespace
+{
+}
+
+strict namespace Bar
+{
+}
+
+namespace Baz
+{
+	namespace
+	{
+		strict namespace Qux
+		{
+			strict namespace Quux
+			{
+				strict namespace Corge
+				{
+			
+				}
+			}
+		}
+	}
+}

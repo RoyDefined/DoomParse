@@ -1,0 +1,12 @@
+﻿[
+  {
+    Identifier: Foo,
+    IdentifierQuotes: true,
+    IsClientside: false
+  },
+  {
+    Identifier: Bar,
+    IdentifierQuotes: true,
+    IsClientside: false
+  }
+]

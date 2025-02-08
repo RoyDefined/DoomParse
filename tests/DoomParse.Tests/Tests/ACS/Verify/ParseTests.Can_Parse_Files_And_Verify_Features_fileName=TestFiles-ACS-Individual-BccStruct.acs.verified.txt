@@ -1,0 +1,46 @@
+﻿[
+  {
+    Names: [
+      Foo
+    ],
+    Values: [
+      {
+        Type: str,
+        Name: foo
+      },
+      {
+        Type: str,
+        Name: bar
+      },
+      {
+        Type: str,
+        Name: baz
+      }
+    ],
+    IsPrivate: true
+  },
+  {
+    Names: [
+      Bar
+    ],
+    Values: [
+      {
+        Type: int,
+        Name: foo
+      },
+      {
+        Type: str,
+        Name: bar
+      },
+      {
+        Type: fixed,
+        Name: baz
+      },
+      {
+        Type: raw,
+        Name: qox
+      }
+    ],
+    IsPrivate: false
+  }
+]

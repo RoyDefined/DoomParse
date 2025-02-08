@@ -1,0 +1,27 @@
+﻿[
+  {
+    Key: BAR,
+    Value: [
+      {
+        Symbols: [
+          {
+            Token: TSYMBOL,
+            Symbol: Baz
+          },
+          {
+            Token: TLBRACKET,
+            Symbol: [
+          },
+          {
+            Token: TNUMBER,
+            Symbol: 0
+          },
+          {
+            Token: TRBRACKET,
+            Symbol: ]
+          }
+        ]
+      }
+    ]
+  }
+]

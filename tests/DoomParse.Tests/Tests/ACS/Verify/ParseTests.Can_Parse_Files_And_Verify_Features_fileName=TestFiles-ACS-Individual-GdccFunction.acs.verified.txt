@@ -1,0 +1,13 @@
+﻿[
+  {
+    ReturnType: somestruct,
+    Name: StructFunc,
+    Parameters: [
+      {
+        Type: somestruct,
+        Name: st
+      }
+    ],
+    IsPrivate: false
+  }
+]

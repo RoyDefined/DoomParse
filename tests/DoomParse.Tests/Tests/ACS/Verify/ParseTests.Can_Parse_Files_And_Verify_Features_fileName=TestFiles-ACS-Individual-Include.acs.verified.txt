@@ -1,0 +1,8 @@
+﻿[
+  {
+    Path: zcommon.acs
+  },
+  {
+    Path: TestFiles/ACS/Individual/Empty.acs
+  }
+]

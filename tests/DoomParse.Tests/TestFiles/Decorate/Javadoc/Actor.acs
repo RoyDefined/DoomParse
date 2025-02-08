@@ -1,0 +1,20 @@
+/** This is an Actor! */
+actor Foo
+{
+}
+
+/**
+  * This is another Actor!
+  */
+actor Bar
+{
+}
+
+
+/**
+  * Guess what, another actor!
+  * @hidden
+  */
+actor HiddenFoo
+{
+}

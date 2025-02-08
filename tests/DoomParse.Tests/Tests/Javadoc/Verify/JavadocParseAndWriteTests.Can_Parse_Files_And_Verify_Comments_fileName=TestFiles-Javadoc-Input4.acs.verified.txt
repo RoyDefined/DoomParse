@@ -1,0 +1,9 @@
+﻿{
+  Summary: Foo,
+  Hidden: false,
+  Parameters: [
+    {
+      Name: Bar
+    }
+  ]
+}

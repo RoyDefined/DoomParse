@@ -1,0 +1,20 @@
+enum : int
+{
+	FOO,
+	BAR = 5,
+	BAZ
+};
+
+private enum Foo : int
+{
+	FOO,
+	BAR = -123,
+	BAZ = 5
+};
+
+private enum : fixed
+{
+	FOO = 12.0,
+	BAR = 15.123,
+	BAZ = 1.0
+};

@@ -1,0 +1,11 @@
+﻿{
+  Summary: Foo,
+  Returns: Baz,
+  Hidden: false,
+  Parameters: [
+    {
+      Name: Bar,
+      Description: Description for Bar
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+#libdefine FOO 10
+#libdefine FOO "FOO"
+#libdefine FOO 10.123

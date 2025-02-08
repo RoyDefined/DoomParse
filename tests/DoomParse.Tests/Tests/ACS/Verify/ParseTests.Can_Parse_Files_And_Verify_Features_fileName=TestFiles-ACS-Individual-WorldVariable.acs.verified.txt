@@ -1,0 +1,20 @@
+﻿[
+  {
+    Type: int,
+    Index: 1,
+    Name: foo,
+    IsArray: false
+  },
+  {
+    Type: int,
+    Index: 2,
+    Name: bar,
+    IsArray: false
+  },
+  {
+    Type: int,
+    Index: 3,
+    Name: baz,
+    IsArray: true
+  }
+]

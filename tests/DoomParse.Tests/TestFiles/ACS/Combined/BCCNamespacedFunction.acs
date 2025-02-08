@@ -1,0 +1,26 @@
+namespace Foo
+{
+	namespace
+	{
+		strict namespace Bar
+		{
+			strict namespace Baz
+			{
+				strict namespace Qux
+				{
+					void Foo()
+					{
+					}
+
+					str Bar(fixed arg1 = 1.0)
+					{
+					}
+
+					fixed Baz(void)
+					{
+					}
+				}
+			}
+		}
+	}
+}

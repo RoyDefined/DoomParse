@@ -1,0 +1,29 @@
+﻿[
+  {
+    Name: Foo,
+    Body:
+,
+    Comment: {
+      Summary: This is an Actor!,
+      Hidden: false
+    }
+  },
+  {
+    Name: Bar,
+    Body:
+,
+    Comment: {
+      Summary: This is another Actor!,
+      Hidden: false
+    }
+  },
+  {
+    Name: HiddenFoo,
+    Body:
+,
+    Comment: {
+      Summary: Guess what, another actor!,
+      Hidden: true
+    }
+  }
+]

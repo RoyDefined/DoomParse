@@ -1,0 +1,152 @@
+﻿[
+  {
+    Type: int,
+    Items: [
+      {
+        Value: [
+          {
+            Token: TNUMBER,
+            Symbol: 5
+          }
+        ],
+        Name: fooInt
+      }
+    ],
+    IsPrivate: false
+  },
+  {
+    Type: int,
+    Items: [
+      {
+        Name: barInt
+      },
+      {
+        Name: bazInt
+      }
+    ],
+    IsPrivate: false
+  },
+  {
+    Type: int,
+    Items: [
+      {
+        Value: [
+          {
+            Token: TNUMBER,
+            Symbol: -1
+          }
+        ],
+        Name: qoxInt
+      }
+    ],
+    IsPrivate: false
+  },
+  {
+    Type: str,
+    Items: [
+      {
+        Name: fooString
+      }
+    ],
+    IsPrivate: false
+  },
+  {
+    Type: fixed,
+    Items: [
+      {
+        Name: fooFixed
+      }
+    ],
+    IsPrivate: false
+  },
+  {
+    Type: fixed,
+    Items: [
+      {
+        Value: [
+          {
+            Token: TNUMBER,
+            Symbol: -123.0
+          }
+        ],
+        Name: barFixed
+      },
+      {
+        Value: [
+          {
+            Token: TNUMBER,
+            Symbol: -200.0
+          }
+        ],
+        Name: qoxFixed
+      }
+    ],
+    IsPrivate: false
+  },
+  {
+    Type: int,
+    Items: [
+      {
+        ArraySize: 5,
+        DefaultValue: { 1, 2, 3, 4, 5 },
+        Name: fooArray
+      }
+    ],
+    IsPrivate: false
+  },
+  {
+    Type: int,
+    Items: [
+      {
+        Value: [
+          {
+            Token: TNUMBER,
+            Symbol: 3
+          },
+          {
+            Token: TSYMBOL,
+            Symbol: +
+          },
+          {
+            Symbols: [
+              {
+                Token: TNUMBER,
+                Symbol: 1
+              },
+              {
+                Token: TSYMBOL,
+                Symbol: +
+              },
+              {
+                Token: TNUMBER,
+                Symbol: 2
+              },
+              {
+                Token: TSYMBOL,
+                Symbol: +
+              },
+              {
+                Symbols: [
+                  {
+                    Token: TNUMBER,
+                    Symbol: 4
+                  },
+                  {
+                    Token: TSYMBOL,
+                    Symbol: +
+                  },
+                  {
+                    Token: TNUMBER,
+                    Symbol: 5
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        Name: fooWithManyParenthesis
+      }
+    ],
+    IsPrivate: false
+  }
+]

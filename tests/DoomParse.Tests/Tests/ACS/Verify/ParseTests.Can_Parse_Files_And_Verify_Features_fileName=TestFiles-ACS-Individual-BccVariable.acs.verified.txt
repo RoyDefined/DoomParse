@@ -1,0 +1,20 @@
+﻿[
+  {
+    Type: raw,
+    Items: [
+      {
+        Name: fooThisCouldBeAnything
+      }
+    ],
+    IsPrivate: false
+  },
+  {
+    Type: int,
+    Items: [
+      {
+        Name: foo
+      }
+    ],
+    IsPrivate: true
+  }
+]
