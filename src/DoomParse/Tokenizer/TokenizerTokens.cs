@@ -1,0 +1,37 @@
+﻿namespace DoomParse.Tokenizer;
+
+public enum TokenizerTokens
+{
+	TUNKNOWN,
+
+	TEOF,
+	THASH,
+	TCOMMA,
+	TDOT,
+	TCOLON,
+	TSEMI,
+	TEQ,
+	TDASH,
+	TDOLLAR,
+
+	TLPAREN,
+	TRPAREN,
+
+	TLBRACE,
+	TRBRACE,
+
+	TLBRACKET,
+	TRBRACKET,
+
+	TSTRING,
+	TNUMBER,
+
+	TSYMBOL,
+
+	// Masked symbols unless explicitly disabled.
+	TWHITESPACE,
+	TNEWLINE,
+	TSINGLELINECOMMENTSTART,
+	TMULTILINECOMMENTSTART,
+	TMULTILINECOMMENTEND,
+}
