@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Title>A general purpose Doom lexer and parser</Title>
+    <Title>DoomParse</Title>
     <Version>1.0.0</Version>
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
     <PackageId>RoyDefinedProjects.$(AssemblyName)</PackageId>
